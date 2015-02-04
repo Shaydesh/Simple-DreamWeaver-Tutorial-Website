@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="title of page" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<link href="../Project.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#footer {
+	position: relative;
+}
+</style>
+</head>
+
+
+<body bgcolor="#000000" id ="body">
+<!-- Top Navigation Bar -->
+  <div id="TopDiv">
+      <ul id="MenuBar1" class="MenuBarHorizontal">
+        <li id="ListItem1"><a href="../New_Index_Page.html">Home</a></li>
+        <li id="ListItem2"><a href="../WebPage_tutorial.html">Create a Web Page</a></li>
+        <li id="ListItem3"><a href="../Adding_Additional_Webpages.html">Add Additional Web Pages</a></li>
+        <li id="ListItem4"><a href="../Inserting_and_Formatting_Text_Images_Hyperlinks.html">Text, Images, and Hyper Links</a></li>
+        <li id="ListItem5"><a href="../Creating_Forms.html">Create Forms</a></li>
+      </ul>
+      </div>
+      
+  
+ 	<div id="banner">   <!-- Banner Image and Image map link -->
+       <p><img src="../Images/Dreamweaver_CS_5_icon.png" alt="Adobe Dream Weaver Icon" usemap="#Map" border="0"/>
+       <map name="Map" id="Map">
+       <area shape="rect" coords="56,89,136,303" href="http://labs.adobe.com/technologies/dreamweaver/" alt="For more information about DreamWeaver" />
+       </map>
+      </p>
+    </div>
+  
+  
+  
+<!-- Main Content Section -->
+  
+  
+  
+<div id= "content">
+      <h4><!-- TemplateBeginEditable name="Content_Header" -->Content_Header<!-- TemplateEndEditable --></h4>
+      <p><!-- TemplateBeginEditable name="Content_Para1" -->Content Para1<!-- TemplateEndEditable --></p>
+      <p><!-- TemplateBeginEditable name="Content_Para2" -->Content_Para2<!-- TemplateEndEditable --></p>
+      <!-- TemplateBeginEditable name="NextPage" -->
+      <p id="NextPageButton"><a href="">next page &rarr;</a></p>
+      <!-- TemplateEndEditable --></div>
+    
+    
+    
+<!-- Gallery sidebar with a block grid-->
+      <div id="ImageList">
+      <ul>
+        <li><a href="../New_Index_Page.html"><img src="../Images/Home.png" alt="Home Page Link"/></a></li>
+        <li><a href="../WebPage_tutorial.html"><img src="../Images/web_page.png" alt="Create a Web page tutorial"/></a></li>
+        <li><a href="../Adding_Additional_Webpages.html"><img src="../Images/web_site.png" alt="adding aditional pages tutorial"/></a></li>
+        <li><a href="../Inserting_and_Formatting_Text_Images_Hyperlinks.html"><img src="../Images/Link_icon.png" alt="adding text, images, and links tutorial"/></a></li>
+        <li><a href="../Creating_Forms.html"><img src="../Images/forms.png" alt="Creating forms tutorial"/></a></li>
+        <li><a href="http://labs.adobe.com/technologies/dreamweaver/"><img src="../Images/Adobe_Dreamweaver_CS6_icon.png" alt="For More Information About DreamWeaver"/></a></li>
+      </ul>
+    </div>
+    
+    <!--footer-->
+      
+      <div id="footer">
+      <hr></hr>
+      <p>Web Site design by Shay Deshner, student at American Public University, 2013</p>
+      
+      </div>
+    
+    
+
+       
+ 
+     
+
+ 
+</body>
+</html>

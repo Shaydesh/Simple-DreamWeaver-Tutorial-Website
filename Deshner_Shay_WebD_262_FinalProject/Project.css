@@ -1,0 +1,136 @@
+#body {
+	background-color: white;
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: 0% 0%;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+	color: #000000;
+	padding-top: 0px;
+	padding-right: 100px;
+	padding-bottom: 0px;
+	padding-left: 175px;
+	font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	position: absolute;
+	cursor: default;
+	height: 500px;
+	margin: 0px;
+	float: none;
+}
+
+#TopDiv {
+	background-color: #00CCCC;
+	display: block;
+	float: none;
+	position: static;
+	height: 43px;
+	width: 1026px;
+	left: 23px;
+}
+
+#ListItem1 {
+	position: static;
+	display: list-item;
+    float: left;
+    position: static;
+	height: 47px;
+    width: 95px;
+}
+
+#ListItem2 {
+	position: static;
+	display: list-item;
+    float: left;
+    position: static;
+	height: 47px;
+    width: 194px;
+	
+}
+
+#ListItem3 {
+	position: static;
+	display: list-item;
+    float: left;
+    position: static;
+	height: 47px;
+    width: 252px;
+	
+}
+
+#ListItem4 {
+	position: static;
+	display: list-item;
+    float: left;
+    position: static;
+	height: 47px;
+    width: 278px;
+	
+}
+
+#ListItem5 {
+	position: static;
+	display: list-item;
+    float: left;
+    position: static;
+	height: 47px;
+    width: 153px;
+	
+}
+
+#banner {
+	position: static;
+	left: 38px;
+	top: 74px;
+	
+}
+
+#content {
+	height: 327px;
+	width: 667px;
+	display: block;
+	float: left;
+	position: relative;
+}
+
+#ImageList {
+	display: block;
+	float: left;
+	position: static;
+	height: 231px;
+	width: 323px;
+}
+
+#ImageList li {
+	display: inline-block;
+    float: none;
+    position: static;
+}
+
+#NextPageButton {
+	display: inline-block;
+    float: none;
+    position: relative;
+	height: 33px;
+    width: 114px;
+}
+
+#P {
+	display: block;
+    float: none;
+    position: static;
+}
+
+#footer {
+	display: block;
+	float: left;
+	position: static;
+	height: 43px;
+	width: 1000px;
+	left: -1px;
+	top: 300px;
+}
